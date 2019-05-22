@@ -1,0 +1,7 @@
+
+.idea/*
+.idea/vcs.xml
+__pycache__/utile.cpython-36.pyc
+data/*
+checkpoints/*
+graphs/*
